@@ -1,0 +1,9 @@
+language: java
+
+jdk:
+  - oraclejdk8
+	
+notifications:
+  email:
+	- gmuswe15@gmail.com
+	- yhe10@masonlive.gmu.edu
